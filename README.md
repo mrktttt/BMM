@@ -12,6 +12,7 @@ Cette application est menée dans le cas de nos études de licences d'informatiq
 - OUAMMOUR Larbi (larbi.ouammour@etu.cyu.fr)
 - RAZAFINONy Mario (mario.razafinony@etu.cyu.fr)
 - TREUIL Killian (killian.treuil@etu.cyu.fr)
+  
 Tous étudiants en deuxième année de licence à CY.
 
 
