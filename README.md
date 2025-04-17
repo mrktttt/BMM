@@ -1,10 +1,10 @@
-# Boursomama
+# BMM
 
 Création d'une simulation jouable de la bourse.
 
 ## Description
 
-Boursomama est une application où l'on peut investir dans une simulation du monde financier qu'est la bourse.
+BMM est une application où l'on peut investir dans une simulation du monde financier qu'est la bourse.
 Cette application est menée dans le cas de nos études de licences d'informatique.
 
 ## Auteurs
